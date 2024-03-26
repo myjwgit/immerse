@@ -1,0 +1,83 @@
+{
+  "shortBrandName": {
+    "message": "Immersive Translate"
+  },
+  "brandName": {
+    "message": "Immersive Translate: Web Page&PDF Translation"
+  },
+  "brandDescription": {
+    "message": "Bilingual web page translation, also supports PDF, Epub eBook, Video subtitles translation, free to use."
+  },
+  "toggleTranslatePage": {
+    "message": "Translate webpage/Display original text"
+  },
+  "toggleTranslateTheWholePage": {
+    "message": "Translate entire page/Display original text"
+  },
+  "toggleTranslateToThePageEndImmediately": {
+    "message": "Translate instantly to the bottom of the page/Display original text"
+  },
+  "toggleTranslateTheMainPage": {
+    "message": "Translate main page /Display original text"
+  },
+  "shareToDraft": {
+    "message": "Share Bilingual Page"
+  },
+  "openOptionsPage": {
+    "message": "Open Settings Page"
+  },
+  "translateLocalPdfFile": {
+    "message": "Translate local PDF File"
+  },
+  "openEbookViewer": {
+    "message": "Read local e-books"
+  },
+  "openEbookBuilder": {
+    "message": "Create Bilingual EPUB E-books"
+  },
+  "translateLocalHtmlFile": {
+    "message": "Translate HTML/txt File"
+  },
+  "donateContext": {
+    "message": "Explore Sponsorship Benefits"
+  },
+  "translateLocalSubtitleFile": {
+    "message": "Translate Local Subtitle File"
+  },
+  "openAboutPage": {
+    "message": "About / Feedback/Sponsor"
+  },
+  "toggleMouseHoverTranslateDirectly": {
+    "message": "Temporarily enable or disable direct translation by mouse hover on the page"
+  },
+  "translateWithOpenAI": {
+    "message": "Temporarily translate the current page with OpenAI"
+  },
+  "translateWithDeepL": {
+    "message": "Temporarily translate the current page with DeepL"
+  },
+  "translateWithGoogle": {
+    "message": "Temporarily translate the current page with Google"
+  },
+  "translateWithBing": {
+    "message": "Temporarily translate the current page with Microsoft Translator"
+  },
+  "translateWithGemini": {
+    "message": "Temporarily translate the current page with Gemini"
+  },
+  "translateWithTransmart": {
+    "message": "Temporarily translate the current page with Tencent Translator"
+  },
+  "translateInputBox": {
+    "message": "Translate the content of the current input box"
+  },
+  "toggleOnlyTransation": {
+    "message": "Switch to bilingual/translation-only mode"
+  },
+  "toggleTranslationMask": {
+    "message": "Toggle blur effect on translated text (learning mode) for the current page"
+  },
+  "toggleVideoSubtitlePreTranslation": {
+    "message": "Switch Video Subtitles with Immersive Translation Feature"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "shortBrandName": {
+    "message": "Immersionsübersetzung"
+  },
+  "brandName": {
+    "message": "Immersion Translation: Bilinguale Webseiten & PDF Übersetzung"
+  },
+  "brandDescription": {
+    "message": "Bilingual web page translation, also supports PDF translation, bilingual Epub eBook translation, free to use."
+  },
+  "toggleTranslatePage": {
+    "message": "Seite übersetzen/ Originaltext anzeigen"
+  },
+  "toggleTranslateTheWholePage": {
+    "message": "Alle Bereiche der Seite übersetzen/den Originaltext anzeigen"
+  },
+  "toggleOnlyTransation": {
+    "message": "Wechseln Sie in den Zweisprachen-/Nur-Übersetzungsmodus"
+  },
+  "toggleTranslateToThePageEndImmediately": {
+    "message": "Sofortige Übersetzung am Ende der Seite/Anzeige des Originaltextes"
+  },
+  "toggleTranslateTheMainPage": {
+    "message": "Den Hauptbereich der Seite übersetzen/den Originaltext anzeigen"
+  },
+  "shareToDraft": {
+    "message": "Zweisprachige Seiten teilen"
+  },
+  "openOptionsPage": {
+    "message": "Öffnen Sie die Einstellungsseite"
+  },
+  "toggleTranslationMask": {
+    "message": "Translationsunschärfe-Effekt ein-/ausblenden"
+  },
+  "translateLocalPdfFile": {
+    "message": "Lokale PDF-Dateien übersetzen"
+  },
+  "openEbookViewer": {
+    "message": "Lokale eBooks lesen"
+  },
+  "openEbookBuilder": {
+    "message": "Zweisprachige EPUB eBooks erstellen"
+  },
+  "translateLocalHtmlFile": {
+    "message": "HTML/Txt-Dateien übersetzen"
+  },
+  "donateContext": {
+    "message": "Erfahren Sie mehr über die Vorteile eines Sponsors"
+  },
+  "translateLocalSubtitleFile": {
+    "message": "Lokale Untertiteldateien übersetzen"
+  },
+  "openAboutPage": {
+    "message": "Über/Feedback"
+  },
+  "translateInputBox": {
+    "message": "Übersetzen Sie den aktuellen Inhalt des Eingabefelds."
+  },
+  "translateWithDeepL": {
+    "message": "Vorübergehende Verwendung von DeepL zur Übersetzung der aktuellen Seite"
+  },
+  "translateWithTransmart": {
+    "message": "Verwenden Sie vorübergehend Tencent, um die aktuelle Seite zu übersetzen."
+  },
+  "translateWithOpenAI": {
+    "message": "Vorübergehende Verwendung von OpenAI zum Übersetzen der aktuellen Seite"
+  },
+  "toggleMouseHoverTranslateDirectly": {
+    "message": "Auf der Seite das direkte Übersetzen durch Mouseover temporär aktivieren oder deaktivieren"
+  },
+  "translateWithBing": {
+    "message": "Verwenden Sie vorübergehend Microsoft Translate, um die aktuelle Seite zu übersetzen."
+  },
+  "translateWithGoogle": {
+    "message": "Vorübergehende Verwendung von Google Übersetzer für die aktuelle Seite"
+  },
+  "toggleVideoSubtitlePreTranslation": {
+    "message": "Wechseln Sie zu zweisprachigen Untertiteln und verwenden Sie vorzugsweise immersive Übersetzungseinstellungen."
+  },
+  "translateWithGemini": {
+    "message": "Verwenden Sie vorübergehend Gemini, um die aktuelle Seite zu übersetzen."
+  }
+}
